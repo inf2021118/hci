@@ -17,3 +17,13 @@ AM inf2021118
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
+
+
+## 6 Paradoteo
+Σε αυτό το παραδοτέο έκανα τις απαραίτητες αλλαγές στο "καλλιπος" με τις απαραίτητες τροποποίησης στο make-latex.sh για την δημιουργία του pdf.
+[make-latex.sh](https://github.com/inf2021118/kallipos/blob/master/make-latex.sh)
+[comment.md](https://github.com/inf2021118/kallipos/blob/master/comment/comment.md)
+[comment.lua](https://github.com/inf2021118/kallipos/blob/master/comment.lua)
+[book.pdf](https://github.com/inf2021118/kallipos/blob/master/book/book1.pdf)
+[Repository](https://github.com/inf2021118/kallipos)
+![screenshot](https://user-images.githubusercontent.com/115148818/203559673-f28a422f-92a6-46e0-800a-e8ce7271d796.jpg)
